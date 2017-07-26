@@ -1,0 +1,5 @@
+{
+    "require": {
+        "paymaya/paymaya-sdk": "*"
+    }
+}
